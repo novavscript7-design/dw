@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://school-meeting-production.up.railway.app/$1"
+    }
+  ]
+}
